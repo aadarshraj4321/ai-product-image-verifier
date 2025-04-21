@@ -1,6 +1,6 @@
-streamlit
-torch
-transformers
-Pillow
+streamlit==1.30.0
+torch==2.1.0
+transformers==4.37.0
+Pillow==10.2.0
 opencv-python-headless==4.8.0.76
-numpy
+numpy==1.24.4
