@@ -2,3 +2,5 @@ streamlit
 torch
 transformers
 Pillow
+opencv-python
+numpy
